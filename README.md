@@ -1,4 +1,4 @@
 # CppThreadTools
 cpp thread tools
 
-## Parallel accumulate, multi thread accumulate function
+1. Parallel accumulate: multi thread accumulate function
